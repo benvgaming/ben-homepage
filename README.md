@@ -24,14 +24,9 @@ $PROJECT_ROOT
 
 ## License
 
-MIT License.
+MIT [License](./LICENSE).
 
-You can create your own homepage for free without notifying me by forking this project under the following conditions:
-
-- Add a link to [my homepage](https://www.craftz.dog/)
-- Do not use the 3d voxel dog
-
-Check out [LICENSE](./LICENSE) for more detail.
-
----
+## Credits
+- This homepage is based on [Takuya Matsuyama's website](https://www.craftz.dog/)
+- I shouldn't be using the 3D voxel dog since it isn't allowed
 
